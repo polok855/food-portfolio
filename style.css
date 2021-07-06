@@ -33,3 +33,10 @@ section{
     background-size: cover;
     background-repeat: no-repeat;
 }
+.about img{
+width: 300px;
+}
+.about-2{
+    margin-left: -15%;
+    padding-top: 10%;
+}
